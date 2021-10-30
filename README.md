@@ -14,7 +14,6 @@ npm install babel-loader @babel/core @babel/cli @babel/preset-env --save-dev
 
 ## ディレクトリ構成
 
-
 ```txt
 develop-root/
   ├ src/
