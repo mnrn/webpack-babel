@@ -39,7 +39,10 @@ develop-root/
 
 ```terminal
 # 開発用ビルド
-npm run serve
+npm run build:dev
+
+# 開発用サーバー立ち上げ
+npm run serv
 
 # 本番用ビルド
 npm run build
