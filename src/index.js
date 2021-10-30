@@ -1,3 +1,3 @@
-import { hello } from './component/hello'
+import { hello } from './components/hello'
 
 hello()
