@@ -15,7 +15,7 @@ npm install webpack webpack-cli webpack-merge --save-dev
 # Babel関連
 npm install babel-loader @babel/core @babel/cli @babel/preset-env --save-dev
 
-# Dev Server
+# 開発用サーバー
 npm install webpack-dev-server --save-dev
 
 # React関連
