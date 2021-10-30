@@ -17,7 +17,7 @@ npm install babel-loader @babel/core @babel/cli @babel/preset-env --save-dev
 ```txt
 develop-root/
   ├ src/
-  │   ├ component/
+  │   ├ components/
   │   └ index.js 
   ├ dist/
   │   ├ js/
