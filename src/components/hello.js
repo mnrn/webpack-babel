@@ -1,5 +1,7 @@
-const hello = () => {
-  console.log('Hello, world!')
-}
+import React from 'react'
 
-export { hello }
+export default class Hello extends React.Component {
+  render () {
+    <div id='hello'></div>
+  }
+}

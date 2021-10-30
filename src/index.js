@@ -1,3 +1,6 @@
-import { hello } from './components/hello'
+import ReactDOM from 'react-dom'
+import Hello from './components/hello'
 
-hello()
+ReactDOM.render(
+  <Hello></Hello>
+)
