@@ -1,3 +1,5 @@
 import { hello } from './components/hello'
 
-hello()
+window.onload = () => {
+  hello()
+}
